@@ -18,6 +18,14 @@ Concepts learned:
 -   Getting a Command Prompt in a Container
 -   Starting with a Shell
 -   Container Isolation
+-   Creating Docker Images
+-   Building a Dockerfile
+-   Dockerfile Teardown
+-   What's a Base Image?
+-   The Build Process in Detail
+-   Rebuilds with Cache
+-   Tagging an Image
+-   Manual Image Generation with Docker Commit
 
 The Udemy course used throughout this repo
 
